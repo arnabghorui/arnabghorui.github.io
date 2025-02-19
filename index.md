@@ -1,2 +1,2 @@
 # Hello World !
-## I think markdown makes it easy to write a blog
+## This is my webpage. WIP forever
